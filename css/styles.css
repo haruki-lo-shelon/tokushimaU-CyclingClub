@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background: #bce2b9;
+    background: #85caeb;
 }
 
 header {
@@ -16,7 +16,7 @@ header ul {
     margin-bottom: 0;
     padding: 10px 20px;
     padding-right: 100%;
-    background: #136313;
+    background: #134a63;
     opacity: .9;
     color: #fff;
     box-shadow: 0px 5px 3px rgba(0, 0, 0, 0.3);
@@ -46,7 +46,7 @@ header .btn{
     height: 24px;
     display: block;
     padding: 10px;
-    background:  #66cc3d;
+    background:  #3d68cc;
     border-radius: 4px;
     box-shadow: 5px 5px 3px rgba(0, 0, 0, 0.3);
 }
@@ -97,10 +97,6 @@ header .btn:hover {
     text-shadow: 2px 2px 1px black;
 }
 
-.index > p {
-    text-align: center;
-}
-
 .container > section {
     display: flex;
     margin: 32px auto;
@@ -144,7 +140,7 @@ header .btn:hover {
 footer {
     padding: 64px;
     padding-bottom: 100%;
-    background: #206313;
+    background: #134a63;
     color: #98969c;
     text-align: center;
 }
